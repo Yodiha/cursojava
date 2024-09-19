@@ -19,4 +19,5 @@ public class Persona {
 		System.out.println("la persona"+nombre+"esta comiendo");
 	}
 	String luz;
+	
 }
