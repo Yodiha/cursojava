@@ -18,4 +18,5 @@ public class Persona {
 	public void comer() {
 		System.out.println("la persona"+nombre+"esta comiendo");
 	}
+	String luz;
 }
