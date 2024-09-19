@@ -19,7 +19,7 @@ public class Aarrays1 {
 		
 		for (int i = 0; i < longitud.length; i++) {
 				System.out.println(longitud[i]+ "-");
- 
+				System.out.println("hola hola2");
 		}
 	}
 
