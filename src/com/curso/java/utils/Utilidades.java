@@ -29,12 +29,7 @@ public class Utilidades {
 
 		return texto;
 	}
-
-	public static void pintarMenu (String[] opcionesMenu ) {
-		for(int=0; i<opcionesMenu.length; i++) {
-			System.out.println();
-		}
-		
-	for ( String opcion:opcionesMenu);	
 	}
-}
+
+		
+	

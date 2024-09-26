@@ -1,6 +1,6 @@
 package funciones;
 
-import com.curso.java.Utilidades;
+
 
 public class PintarTablaMultipilcar {
 

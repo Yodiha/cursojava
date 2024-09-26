@@ -23,14 +23,7 @@ public class AlumnoMain {
 		 alumno2.setMayorEdad(false);
 		//ESTO PARA LLAMAR UN METODO DESDE LA MIMA CLASE
 				
-		Alumno alumno3 = new Alumno("y2154","luis","morales",9,75);
-		alumno3.setMayorEdad(false);
-				
-		Alumno alumno4 = new Alumno("y2584","flor","ramirez",true 8,5);
-		System.out.println(alumno4.getNombre());	
-		string[]
-		//alumno seria la clase.		
-		Alumno []		
+		
 }
 	
 }

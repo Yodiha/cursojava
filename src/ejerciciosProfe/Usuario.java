@@ -7,7 +7,7 @@ public class Usuario {
 		Scanner scan=new Scanner(System.in);
 		System.out.println("introduzca una palabra");
 		String usuario=scan.nextLine();{
-	palabra=usuario.replace(" ","");
+	String palabra = usuario.replace(" ","");
 		int numeropalabras=usuario.length();
 		 
 	}

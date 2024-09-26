@@ -26,14 +26,7 @@ public class Cine {
 		 persona3.correr();
 		 System.out.println(persona3.apellidos.toUpperCase());
 	
-		 Persona persona4=persona3;
-		 persona4.edad =28;
-		 persona4.setNombre("carlos");
-		 persona1.nombre="carlos";
-		 persona1.apellido="garcia";
-		 System.out.println(persona1.edad);
-		 System.out.println(persona1.nombre);
-		 persona1
+	
 	}
 
 }
