@@ -11,7 +11,7 @@ public class UtilidadesMtematicasTest {
 	public void testSumar() {
 		int resultado = UtilidadesMatematicas.funcionSumar(2, 3);
 
-		assertEquals(5, resultado);
+		assertEquals(6, resultado);
 	}
 	@Test
 	public void testfuncionOperacion(int a, int b, String operador) {
